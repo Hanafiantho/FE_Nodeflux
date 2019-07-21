@@ -1,0 +1,659 @@
+.home {
+    width: 1440px;
+    height: 816px;
+    object-fit: contain;
+    margin: 0px auto;
+    background-image: linear-gradient(to bottom, #090018 , #201144);
+}
+
+.header {
+    width: 1440px;
+    height: 72px;
+    display: flex;
+    padding: 34px 75px 0px 75px;
+    /* background-color: #0c021e; */
+}
+
+.nodeflux {
+    width: 136px;
+    height: 37px;
+    object-fit: contain;
+}
+
+.nav {
+    padding-top: 14px;
+    padding-bottom: 5px;
+    margin-left: 489px;
+}
+
+.navlink {
+    font-family: WorkSans;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: right;
+    color: #f7f1ff;
+    text-decoration: none;
+}
+
+.About-Us  {
+    width: 73px;
+    height: 19px;
+}
+
+.Product {
+    width: 77px;
+    height: 19px;
+    margin-left: 67px;
+}
+
+.down {
+    width: 7px;
+    height: 4px;
+    object-fit: contain;
+    margin-left: 8px;
+}
+
+.Newsroom {
+    width: 99px;
+    height: 19px;
+    margin-left: 67px;
+}
+
+.Careers-Copy {
+    width: 60px;
+    height: 19px;
+    margin-left: 67px;
+}
+
+.Contact-Us {
+    width: 88px;
+    height: 19px;
+    margin-left: 67px;
+}
+
+.main-content {
+    height: 578px;
+    width: 1440px;
+    padding-top: 70px;
+    /* background-color: #371963; */
+}
+
+.left-content {
+    width: 466px;
+    height: 508px;
+    background-image: url('../img/home/pattern-wave-pattern-wave-copy-mask.svg');
+}
+
+.face-regocnition {
+    width: 260.2px;
+    height: 133.2px;
+    object-fit: contain;
+    border-radius: 4px;
+    background-image: url('../img//home/path-2.svg'), linear-gradient(to bottom, rgba(228, 197, 255, 0.15), rgba(61, 15, 115, 0.2));
+    margin: -4.6px 0px 0px 116.8px;
+    padding: 11.6px 0px 0px 14.2px;
+}
+
+.Face {
+    width: 37px;
+    height: 19px;
+    font-family: WorkSans;
+    font-size: 16px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #e0c8ff;
+}
+
+.Recognition {
+    width: 88px;
+    height: 19px;
+    font-family: WorkSans;
+    font-size: 16px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #e0c8ff;
+    margin-left: 8px;
+}
+
+.fr-point-title {
+    margin: 12px 0px 0px 3px;
+}
+
+.Total-Person {
+    width: 79px;
+    height: 20px;
+    font-family: Dosis;
+    font-size: 16px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.2px;
+    color: #c8a6ff;
+}
+
+.Identified-Person {
+    width: 109px;
+    height: 20px;
+    font-family: Dosis;
+    font-size: 16px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.2px;
+    color: #c8a6ff;
+    margin-left: 30px;
+}
+
+.fr-value {
+    margin: 8px 0px 0px 4px;
+}
+
+.tp-value {
+    width: 56px;
+    height: 31px;
+    text-shadow: 0 0 6px #c789ff;
+    font-family: Dosis;
+    font-size: 24px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.5px;
+    color: #ffffff;
+}
+
+.ip-value {
+    width: 49px;
+    height: 31px;
+    text-shadow: 0 0 6px #c789ff;
+    font-family: Dosis;
+    font-size: 24px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.5px;
+    color: #ffffff;
+    margin-left: 53px;
+}
+
+.Oval {
+    width: 6px;
+    height: 6px;
+    box-shadow: 0 0 2px 0 #c789ff;
+    border: solid 1px #b58afd;
+    background-color: #9521ff;
+    border-radius: 50%;
+}
+
+.fr-oval {
+    margin: 54px 0px 0px 9px;
+}
+
+.fd-oval {
+    margin: 225px 0px 154px 12px;
+}
+/* .path-place {
+    margin: 56.8px -89px 0px 11.7px;
+} */
+
+.Path-34 {
+    width: 169.5px;
+    height: 82.2px;
+    /* box-shadow: 0 0 3px 1px #ba6eff; */
+    transform: skew(15deg);
+    border-top: solid 0.5px #ecd6ff;
+    border-right: solid 0.5px #ecd6ff;
+    margin: 56.8px -100.7px 0px 10px;
+    /* margin-top: 56.8px;
+    margin-left: 11.7px; */
+    position: relative;
+}
+
+.Detection {
+    width: 73px;
+    height: 19px;
+    font-family: WorkSans;
+    font-size: 16px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #e0c8ff;
+    margin-left: 4px;
+}
+
+.Mask {
+    width: 215px;
+    height: 139px;
+    margin: 10px 5px 0px -3px;
+    padding: 6px 8px 0px 6px;
+}
+
+.each-fd-item {
+    margin-right: 9px;
+}
+
+.Rectangle-19 {
+    width: 61px;
+    height: 61px;
+    opacity: 0.2;
+    box-shadow: 0 2px 4px 0 #371963;
+    background-color: #11001a;
+    /* margin: 9px; */
+    border: 1px solid white;
+    border-radius: 8px;
+}
+
+.user-silhouette {
+    width: 53px;
+    height: 52px;
+    object-fit: contain;
+    color: #371963;
+}
+
+.Male {
+    width: 27px;
+    height: 17px;
+    text-shadow: 0 0 6px #e0beff;
+    font-family: Dosis;
+    font-size: 14px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.2px;
+    color: #ffffff;
+    margin: 8px 0px 0px 1px;
+}
+
+.Age {
+    /* width: 52px; */
+    height: 16px;
+    font-family: Dosis;
+    font-size: 13px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.19px;
+    color: #c8a6ff;
+    margin: 4px 0px 0px 1px;
+}
+
+.Time {
+    width: 61px;
+    height: 15px;
+    font-family: Dosis;
+    font-size: 12px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.2px;
+    color: #825cc0;
+    margin: 4px 0px 0px 1px;
+}
+
+.face-detection {
+    width: 228.2px;
+    height: 213.2px;
+    object-fit: contain;
+    border-radius: 4px;
+    background-image: url('../img/home/path-2copy.svg'), linear-gradient(to bottom, rgba(228, 197, 255, 0.15), rgba(61, 15, 115, 0.2));
+    margin: 69.8px 0px 0px 178.8px;
+    padding-top: 8.6px;
+    padding-left: 11.2px;
+}
+
+.Path-fd {
+    width: 221px;
+    height: 45px;
+    /* box-shadow: 0 0 3px 1px #ba6eff; */
+    transform: skew(-15deg);
+    border-bottom: solid 0.5px #ecd6ff;
+    border-right: solid 0.5px #ecd6ff;
+    margin: 183px -130px 0px 431px;
+    /* margin-top: 56.8px;
+    margin-left: 11.7px; */
+    position: absolute;
+}
+
+.center-content {
+    width: 508px;
+    height: 508px;
+    object-fit: contain;
+}
+
+.globe {
+    width: 508px;
+    height: 508px;
+    object-fit: contain;
+    background-image: url('../img/home/globe.svg');
+}
+
+.nLogo {
+    margin: 234px 236px 238px 236px;
+    width: 36.1px;
+    height: 36.1px;
+    object-fit: contain;
+    /* box-shadow: 0 0 8px 2px rgba(255, 255, 255, 0.5); */
+    /* background-color: #371963; */
+    position: absolute;
+}
+
+.Oval-Copy {
+    width: 8px;
+    height: 8px;
+    box-shadow: 0 0 6px 1px #f4e8ff;
+    border: solid 2px #9741e5;
+    background-color: #d5bbff;
+    /* margin: 139px 0px 0px 107.9px; */
+    border-radius: 50%;
+    position: absolute;
+}
+
+.fr-oval-copy {
+    margin: 139px 0px 0px 107.9px;
+}
+
+.fd-oval-copy {
+    margin: 312px 0px 0px 189px;
+}
+
+.ts-oval-copy {
+    margin: 93px 124px 0px 376px;
+}
+
+.tsl-oval-copy {
+    margin: 243px 78px 0px 422px;
+}
+
+.right-content {
+    width: 466px;
+    height: 508px;
+}
+
+.Path-ts {
+    width: 85px;
+    height: 55px;
+    /* box-shadow: 0 0 3px 1px #ba6eff; */
+    transform: skew(-50deg);
+    border-top: solid 0.5px #ecd6ff;
+    border-left: solid 1.95px #ecd6ff;
+    margin: 38.68px 438px 0px -93px;
+    /* margin-top: 56.8px;
+    margin-left: 11.7px; */
+    position: absolute;
+}
+
+.Oval-1 {
+    width: 7px;
+    height: 7px;
+    box-shadow: 0 0 2px 0 #c789ff;
+    border: solid 1px #b58afd;
+    background-color: #9521ff;
+    border-radius: 50%;
+}
+
+.ts-oval {
+    margin: 36px 0px 0px 25px;
+}
+
+.traffic-surveillance {
+    width: 276.2px;
+    height: 133.2px;
+    object-fit: contain;
+    border-radius: 4px;
+    background-image: url('../img/home/traffic.svg'), linear-gradient(to bottom, rgba(228, 197, 255, 0.15), rgba(61, 15, 115, 0.2));
+    margin: 8.9px 152px 0px 6.8px;
+    padding: 11.6px 0px 0px 14.2px;
+}
+
+.Traffic {
+    width: 50px;
+    height: 19px;
+    font-family: WorkSans;
+    font-size: 16px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #e0c8ff;
+}
+
+.Surveilance {
+    width: 87px;
+    height: 19px;
+    font-family: WorkSans;
+    font-size: 16px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #e0c8ff;
+    margin-left: 8px;
+}
+
+.ts-point-title {
+    margin-top: 12.4px;
+}
+
+.Total-Vehicle {
+    width: 80px;
+    height: 20px;
+    font-family: Dosis;
+    font-size: 16px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.2px;
+    color: #c8a6ff;
+}
+
+.Total-Lisence-Plate {
+    width: 118px;
+    height: 20px;
+    font-family: Dosis;
+    font-size: 16px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.2px;
+    color: #c8a6ff;
+    margin-left: 29px;
+}
+
+.ts-value {
+    margin: 8px 0px 0px 1px;
+}
+
+.tv-value{
+    width: 42px;
+    height: 31px;
+    text-shadow: 0 0 6px #c789ff;
+    font-family: Dosis;
+    font-size: 24px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.5px;
+    color: #ffffff;
+}
+
+.tlp-value {
+    width: 48px;
+    height: 31px;
+    text-shadow: 0 0 6px #c789ff;
+    font-family: Dosis;
+    font-size: 24px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.5px;
+    color: #ffffff;
+    margin-left: 67px;
+}
+
+.traffic-surveillance2 {
+    width: 260.2px;
+    height: 293.2px;
+    object-fit: contain;
+    border-radius: 4px;
+    background-image: url('../img/home/traffic2.svg'), linear-gradient(to bottom, rgba(228, 197, 255, 0.15), rgba(61, 15, 115, 0.2));
+    margin: 32.3px 136px 40.5px 69.8px;
+    padding: 11.6px 0px 0px 14.2px;
+}
+
+.Surveillance {
+    width: 91px;
+    height: 19px;
+    font-family: WorkSans;
+    font-size: 16px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #e0c8ff;
+    margin-left: 8px;
+}
+
+.ts-content {
+    margin: 16px 0px 0px 0px;
+    width: 260.2px;
+    display: flex;
+}
+
+.left-ts-content {
+    width: 69px;
+    height: 61px;
+}
+
+.center-ts-content {
+    width: 78px;
+    height: 61px;
+}
+
+.Rectangle-20 {
+    width: 78px;
+    height: 61px;
+    opacity: 0.2;
+    background-color: #320e61;
+    border: 1px solid white;
+    border-radius: 8px;
+    margin-left: -1px;
+}
+
+.right-ts-content {
+    padding: 2px 0px 3px 11px;
+    width: 99px;
+    height: 61px;
+}
+
+.code {
+    height: 17px;
+    text-shadow: 0 0 6px #c789ff;
+    font-family: Dosis;
+    font-size: 14px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.2px;
+    color: #ffffff;
+    margin-bottom: 0px;
+}
+
+.Car {
+    font-family: Dosis;
+    font-size: 13px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.19px;
+    color: #c8a6ff;
+    margin: 4px 0px 0px 0px;
+}
+
+.Time {
+    font-family: Dosis;
+    font-size: 12px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.2px;
+    color: #825cc0;
+    margin: 4px 0px 0px 0px;
+}
+
+.footer {
+    width: 1440px;
+    height: 166px;
+    /* background-color: #371963; */
+}
+
+.Extending-Vision-Bey {
+    width: 656px;
+    height: 38px;
+    text-shadow: 0 0 20px rgba(255, 255, 255, 0.5);
+    font-family: WorkSans;
+    font-size: 32px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 2.21px;
+    text-align: center;
+    color: #ffffff;
+    margin: 32px auto;
+}
+
+.button-place {
+    width: 150px;
+    height: 40px;
+    margin: 0px auto;
+}
+
+.button {
+    width: 150px;
+    height: 40px;
+    border-radius: 19.4px !important;
+    border: solid 1.2px #ffffff !important;
+    padding: 7px 27px 11px 28px;
+}
+
+.Explore-More {
+    width: 95px;
+    height: 22px;
+    font-family: Dosis;
+    font-size: 18px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.3px;
+    text-align: center;
+    color: #ffffff;
+}

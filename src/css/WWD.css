@@ -1,0 +1,45 @@
+.wwd {
+    width: 1440px;
+    height: 904px;
+    margin: 0px auto;
+    background-image: url('../img/wwd/brain-wave.svg');
+    background-position: left center;
+    background-color: #201144;
+    background-repeat: no-repeat;
+    padding: 72px 0px 16px 0px;
+}
+
+.wwd-title {
+    width: 1440px;
+    height: 116px;
+    padding: 64px 788px 0px 387px;
+}
+
+.What-We-Do {
+    width: 218px;
+    height: 42px;
+    font-family: WorkSans;
+    font-size: 36px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #e0c8ff;
+}
+
+.left-content-wwd {
+    width: 661px;
+    height: 405.2px;
+    margin: 86px 0px 0px 0px;
+    padding: 46px 0px 66.2px 387px;
+}
+
+.Rectangle-Copy {
+    width: 298px;
+    height: 293px;
+    border-radius: 8px;
+    box-shadow: 0 6px 16px 2px rgba(25, 3, 57, 0.5);
+    background-image: linear-gradient(to bottom, #4b1585, #270a52);
+    position: absolute;
+}
