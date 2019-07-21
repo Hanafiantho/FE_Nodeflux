@@ -8,6 +8,8 @@ import nodefluxLogo from '../img/home/nodeflux.svg'
 import downLogo from '../img/home/down.svg'
 import nLogo from '../img/home/n.svg'
 import userLogo from '../img/home/user-silhouette.svg'
+import iconlpr from '../img/home/icon-lpr.svg'
+import busLogo from '../img/home/bus.svg'
 
 class Home extends React.Component {
     render() {
@@ -106,59 +108,65 @@ class Home extends React.Component {
                                 </div>
                             </div>
                         </div>
-                        <div className='traffic-surveillance2'>
-                            <div>
-                                <span className='Traffic'>Traffic</span><span className='Surveillance'>Surveillance</span>
+                        <div className='d-flex'>
+                            <div className='Path-tsl'></div>
+                            <div className='tsl-oval'>
+                                <div className='Oval-1'></div>
                             </div>
-                            <div className='ts-content'>
-                                <div className='left-ts-content'>
-                                    <div className='Rectangle-19'>
-
+                            <div className='traffic-surveillance2'>
+                                <div>
+                                    <span className='Traffic'>Traffic</span><span className='Surveillance'>Surveillance</span>
+                                </div>
+                                <div className='ts-content'>
+                                    <div className='left-ts-content'>
+                                        <div className='Rectangle-19'>
+                                            <img src={busLogo} className='bus'/>
+                                        </div>
+                                    </div>
+                                    <div className='center-ts-content'>
+                                        <div className='Rectangle-20'>
+                                            <img src={iconlpr} className='icon-lpr'/>
+                                        </div>
+                                    </div>
+                                    <div className='right-ts-content'>
+                                        <p className='code'>AB 123</p>
+                                        <p className='Car'>Car</p>
+                                        <p className='Time'>Today.20:45</p>
                                     </div>
                                 </div>
-                                <div className='center-ts-content'>
-                                    <div className='Rectangle-20'>
-
+                                <div className='ts-content'>
+                                    <div className='left-ts-content'>
+                                        <div className='Rectangle-19'>
+                                            <img src={busLogo} className='bus'/>
+                                        </div>
+                                    </div>
+                                    <div className='center-ts-content'>
+                                        <div className='Rectangle-20'>
+                                            <img src={iconlpr} className='icon-lpr'/>
+                                        </div>
+                                    </div>
+                                    <div className='right-ts-content'>
+                                        <p className='code'>CD 456</p>
+                                        <p className='Car'>Car</p>
+                                        <p className='Time'>Today.20:45</p>
                                     </div>
                                 </div>
-                                <div className='right-ts-content'>
-                                    <p className='code'>AB 123</p>
-                                    <p className='Car'>Car</p>
-                                    <p className='Time'>Today.20:45</p>
-                                </div>
-                            </div>
-                            <div className='ts-content'>
-                                <div className='left-ts-content'>
-                                    <div className='Rectangle-19'>
-
+                                <div className='ts-content'>
+                                    <div className='left-ts-content'>
+                                        <div className='Rectangle-19'>
+                                            <img src={busLogo} className='bus'/>
+                                        </div>
                                     </div>
-                                </div>
-                                <div className='center-ts-content'>
-                                    <div className='Rectangle-20'>
-
+                                    <div className='center-ts-content'>
+                                        <div className='Rectangle-20'>
+                                            <img src={iconlpr} className='icon-lpr'/>
+                                        </div>
                                     </div>
-                                </div>
-                                <div className='right-ts-content'>
-                                    <p className='code'>CD 456</p>
-                                    <p className='Car'>Car</p>
-                                    <p className='Time'>Today.20:45</p>
-                                </div>
-                            </div>
-                            <div className='ts-content'>
-                                <div className='left-ts-content'>
-                                    <div className='Rectangle-19'>
-
+                                    <div className='right-ts-content'>
+                                        <p className='code'>EF 789</p>
+                                        <p className='Car'>Car</p>
+                                        <p className='Time'>Today.20:45</p>
                                     </div>
-                                </div>
-                                <div className='center-ts-content'>
-                                    <div className='Rectangle-20'>
-
-                                    </div>
-                                </div>
-                                <div className='right-ts-content'>
-                                    <p className='code'>EF 789</p>
-                                    <p className='Car'>Car</p>
-                                    <p className='Time'>Today.20:45</p>
                                 </div>
                             </div>
                         </div>
